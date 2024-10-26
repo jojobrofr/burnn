@@ -1,0 +1,793 @@
+
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+
+
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
+local args = {
+    [1] = "Bench"
+}
+
+workspace:WaitForChild("SpawnItemServer"):WaitForChild("RemoteFunction"):InvokeServer(unpack(args))
